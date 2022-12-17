@@ -1,0 +1,33 @@
+.a{
+ color:black !important;
+}
+
+.insta-logo{
+ color:#006238 !important;
+}
+
+.enter{
+  float: right;
+  text-align: center;
+  max-width: 800px;
+  padding-right: 20px;
+  margin-top: 200px;
+  margin-right: 35px;
+} 
+
+.posts-card{
+  max-width: 500px;
+  height: max-content;
+  margin: 26px auto;
+}
+
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid rgb(8,93,252) !important;
+  box-shadow: 0 1px 0 0 rgb(8,93,252) !important;
+}
+
+#toast-container{
+  top:30px !important;
+  right: 20px !important;
+  left: auto !important;
+}
